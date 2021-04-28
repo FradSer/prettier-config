@@ -1,6 +1,6 @@
 {
-  "name": "@zestia/prettier-config",
-  "version": "1.0.4",
+  "name": "@fradser/prettier-config",
+  "version": "2.0.0",
   "description": "Prettier config",
   "main": "index.js",
   "scripts": {
@@ -23,9 +23,8 @@
     "url": "https://github.com/zestia/prettier-config/issues"
   },
   "homepage": "https://github.com/zestia/prettier-config",
-  "dependencies": {},
   "devDependencies": {
-    "@zestia/eslint-config": "^3.0.1",
+    "@fradser/eslint-config": "^5.0.0",
     "eslint": "^7.12.1",
     "prettier": "^2.1.2",
     "release-it": "^14.2.1"
