@@ -24,7 +24,7 @@
   },
   "homepage": "https://github.com/zestia/prettier-config",
   "devDependencies": {
-    "@fradser/eslint-config": "^5.0.0",
+    "@fradser/eslint-config": "^5",
     "eslint": "^7.12.1",
     "prettier": "^2.1.2",
     "release-it": "^14.2.1"

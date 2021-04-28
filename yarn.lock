@@ -118,10 +118,10 @@
     minimatch "^3.0.4"
     strip-json-comments "^3.1.1"
 
-"@fradser/eslint-config@^5.0.0":
-  version "5.0.0"
-  resolved "https://registry.yarnpkg.com/@fradser/eslint-config/-/eslint-config-5.0.0.tgz#fb8d08d8f631e3d9f8b7c654084008174ef78cf4"
-  integrity sha512-JX1GX3yFbHPQWbulk3KRj/2qpIVTUAEC9Mpuz05LgVBH7CoKcuuRFSMHGoRcmCaeSHbcz8/voQi4LLQ36Fz1Pw==
+"@fradser/eslint-config@^5":
+  version "5.0.1"
+  resolved "https://registry.yarnpkg.com/@fradser/eslint-config/-/eslint-config-5.0.1.tgz#14d9d642b691d8bc1a26121cfe815fae3ace5dc8"
+  integrity sha512-AaR1Ukk4sOAKosUZhxqzQ9ecURQITikHHKBEiR8R8OzU5HQirlaVHQji/JHsztvNDQKGlFHhHYUTAt7mbiHfMg==
   dependencies:
     "@typescript-eslint/eslint-plugin" "^4.22.0"
     "@typescript-eslint/parser" "^4.22.0"
@@ -136,7 +136,6 @@
     eslint-plugin-promise "^4.3.1"
     eslint-plugin-qunit "^6.0.0"
     eslint-plugin-react "^7.23.2"
-    eslint-plugin-standard "^5.0.0"
 
 "@iarna/toml@2.2.5":
   version "2.2.5"
@@ -1154,11 +1153,6 @@ eslint-plugin-react@^7.23.2:
     prop-types "^15.7.2"
     resolve "^2.0.0-next.3"
     string.prototype.matchall "^4.0.4"
-
-eslint-plugin-standard@^5.0.0:
-  version "5.0.0"
-  resolved "https://registry.yarnpkg.com/eslint-plugin-standard/-/eslint-plugin-standard-5.0.0.tgz#c43f6925d669f177db46f095ea30be95476b1ee4"
-  integrity sha512-eSIXPc9wBM4BrniMzJRBm2uoVuXz2EPa+NXPk2+itrVt+r5SbKFERx/IgrK/HmfjddyKVz2f+j+7gBRvu19xLg==
 
 eslint-scope@^5.0.0, eslint-scope@^5.1.1:
   version "5.1.1"
